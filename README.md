@@ -18,9 +18,9 @@ The analysis covers:
 
 ## Team
 
+- **Amit Kumar Mahato** — 2023UGMM004 
 - **Aditya Raj Tewary** — 2023UGMM006 
 - **Filza Ahsan** — 2023UGMM028 
-- **Amit Kumar Mahato** — 2023UGMM004 
 ## Tools and Technologies
 
 The project was built using:
