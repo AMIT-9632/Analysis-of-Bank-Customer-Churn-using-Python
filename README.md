@@ -92,17 +92,6 @@ This helped identify the long-term value of retained customers and highlight the
 - Credit score alone was not a strong predictor of CLV, but it remained useful for segmentation.
 - Retention efforts should prioritize high-value and at-risk customers rather than treating all customers equally
 
-## Repository Structure
-
-```text
-.
-├── data/
-├── notebooks/
-├── outputs/
-├── README.md
-└── ACE-OF-SPADES_CSV-MATRIX-2.0-2.pdf
-```
-
 ## How to Use
 
 1. Open the notebook or Python script in Google Colab or Jupyter Notebook.
